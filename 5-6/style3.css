@@ -1,0 +1,67 @@
+h1{
+	padding: 15px;
+	background-color: #9d9d9d;
+	color: white;
+	font-size: 14px;
+	margin: 0;
+}
+span{
+	font-weight: 600;
+}
+ h2{
+	padding: 40px 20px;
+    margin: 0px;
+    border-bottom: 1px solid white;
+    background-color: #d0d0d0;
+    width: 60px;
+    font-size: 14px;
+    float: left;
+}
+ p{
+	padding: 10px 20px 70px 15px;
+	margin: 0;
+	float: left;
+	font-size: 14px;
+	border-bottom: 1px solid #d0d0d0;
+}
+#san{
+    width: 1012px;
+    border-right: 1px solid #d0d0d0;
+}
+#si{
+	width: 823px;
+    border-right: 1px solid #d0d0d0;
+}
+#lianxi{
+	clear: left;
+}
+#nengli{
+	clear:left;
+}
+#nengli p{
+	padding: 10px 20px 51px 15px;
+}
+#wu{
+	width: 967px;
+    border-right: 1px solid #d0d0d0;
+}
+#jiaoyu{
+	clear: left;
+}
+#jiaoyu p{
+	padding: 10px 20px 51px 15px;
+}
+#liu{
+	width: 994px;
+    border-right: 1px solid #d0d0d0;
+}
+#xianmu{
+	clear: left;
+}
+#xianmu p{
+	padding: 10px 20px 50px 15px;
+}
+#qi{
+	width: 896px;
+    border-right: 1px solid #d0d0d0;
+}

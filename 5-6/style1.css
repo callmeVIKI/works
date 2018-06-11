@@ -1,0 +1,33 @@
+#xinxi p{
+    float: left;
+    padding: 0px 40px 0px 0px;
+    margin-top: -5px;
+}
+#xinxi span{
+	font-weight: 600;
+}
+#lianxi {
+	clear: both;
+}
+#lianxi p{
+    float: left;
+    padding: 0px 40px 0px 0px;
+    margin-top: -5px;
+}
+#lianxi span{
+    font-weight: 600;
+}
+
+#nengli{
+	clear: left;
+}
+
+#nengli span{
+	font-weight: 600;
+}
+#jiaoyu span{
+    font-weight: 600;
+}
+#xianmu span{
+    font-weight: 600;
+}
