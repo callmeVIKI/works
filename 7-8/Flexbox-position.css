@@ -1,0 +1,117 @@
+/*事实现一个两栏布局，左侧占30%宽度
+右侧占70%宽度*/
+
+
+/*#warpper{
+    display: flex;
+    height: 1000px;
+}
+#left{
+	width: 30%;
+    border: 3px solid red;
+    background-color: blue;
+}
+#right{
+	width: 70%;
+    border: 5px solid yellow;
+    background-color: blue;
+}
+*/
+
+/*实现一个两栏布局，左侧固定宽度
+右侧根据浏览器宽度进行自适应变化*/
+
+/*
+#warpper{
+    display: flex;
+    height: 1000px;
+}
+#left{
+	width: 30%;
+    border: 3px solid red;
+    background-color: blue;
+}
+#right{
+	flex-grow: 1;
+    border: 5px solid yellow;
+    background-color: blue;
+}
+*/
+
+/*
+实现一个两栏布局，右侧固定宽度
+左侧根据浏览器宽度进行自适应变化*/
+
+/*#warpper{
+	height: 1000px;
+	display: flex;
+}
+#left{
+	flex-grow: 1;
+    border: 3px solid red;
+    background-color: blue;
+}
+#right{
+	width: 200px;
+    border: 3px solid yellow;
+    background-color: #9d5d8c;
+
+}*/
+
+/*实现一个三栏布局，左侧固定宽度，右侧固定宽度
+中间部分宽度随浏览器宽度变化而自适应变化*/
+/*
+*{
+	box-sizing: border-box;
+}
+#warpper{
+	height: 1000px;
+	display: flex;
+}
+#left{
+    width: 200px;
+    border: 3px solid red;
+    background-color: blue;
+}
+#middle{
+    flex-grow: 1;
+    border: 5px solid yellow;
+    background-color: blue;
+}
+#right{
+    width: 300px;
+    border: 10px solid #9d9d9d;
+    background-color: blue;
+}
+*/
+
+/*实现一个三栏布局，左侧固定宽度，中间固定宽度
+右侧根据浏览器宽度变化而自适应变化
+*/
+/*
+#warpper{
+	height: 1000px;
+	display: flex;
+}
+#left{
+    width: 200px;
+    border: 5px solid red;
+    background-color: blue;
+}
+#middle{
+    width: 200px;
+    border: 3px solid yellow;
+    background-color: blue;
+}
+#right{
+	flex-grow: 1;
+	border: 3px solid #7d7d7d;
+	background-color: blue;
+}
+*/
+
+
+
+
+
+

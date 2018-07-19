@@ -1,0 +1,19 @@
+#warpper{
+	display: flex;
+    /*flex-direction: column-reverse;*/
+    /*justify-content: center;     
+    align-items: center;*/
+    flex-wrap: wrap-reverse;
+}
+.nav{
+	padding: 20px;
+}
+#left{
+	background-color: red;
+}
+#middle{
+	background-color: yellow;
+}
+#right{;
+	background-color: blue;
+}

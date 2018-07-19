@@ -1,0 +1,137 @@
+/*用float实现一个两栏布局，左侧占30%宽度，右侧占70%宽度*/
+
+/**{
+	box-sizing: border-box;
+}
+#warpper{
+	height: 1000px;
+}
+#left{
+    width: 30%;
+	height: inherit;
+	border: 3px solid red;
+	background: red;
+	float: left;
+}
+#right{
+	width: 70%;
+    height: inherit;
+    border: 3px solid yellow;
+    background-color: orangered;
+    float: left;
+}
+*/
+
+/*float左侧固定30%；右侧自适应大小*/
+/*
+*{
+	box-sizing: border-box;
+}
+#warpper{
+	height: 1000px;
+}
+#left{
+    width: 30%;
+    height: inherit;
+    border: 3px solid red;
+    float: left;
+    background-color: red;
+
+}
+
+#right{
+	height: inherit;
+    border: 5px solid #6d6d6d;
+    margin-left: 30%;
+    margin-right: 0px;
+    background-color: #6d6d6d;
+}*/
+
+
+/*float右侧固定，左侧自适应*/
+/*
+*{
+	box-sizing: border-box;
+}
+
+#warpper{
+    height: 1000px;
+}
+#left{
+    height: inherit;
+    border: 3px solid yellow;
+    margin-right: 30%;
+    background-color: yellow;
+}
+#right{
+    width: 30%;
+    height: inherit;
+    border: 3px solid red;
+    float: right;
+    background-color: red;
+}
+*/
+
+/*实现一个三栏布局，左侧固定宽度，右侧固定宽度，
+中间部分宽度随浏览器宽度变化而自适应变化*/
+/*
+*{
+	box-sizing: border-box;
+}
+#warpper{
+	height: 1000px;
+}
+#right{
+    width: 100px;
+    height: inherit;
+    border: 3px solid red;
+    float: right;
+}
+#left{
+	width: 100px;
+	height: inherit;
+	border: 3px solid yellow;
+	float: left;
+}
+#middle{
+	height: inherit;
+	border: 5px solid blue;
+    margin:0 100px;
+}
+*/
+
+/*实现一个三栏布局，左侧固定宽度，中间固定宽度
+右侧根据浏览器宽度变化而自适应变化*/
+/*
+*{
+	box-sizing: border-box;
+}
+#warpper{
+	height: 1000px;
+}
+#right{
+	height: inherit;
+    border: 3px solid red;
+    margin-left: 
+}
+#left{
+	width: 100px;
+    height: inherit;
+    border: 3px solid yellow;
+    float: left;
+}
+#middle{
+    width: 500px;
+    height: inherit;
+    border: 5px solid blue;
+    float: left;
+}
+*/
+
+
+
+
+
+
+
+
